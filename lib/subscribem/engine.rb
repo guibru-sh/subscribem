@@ -1,3 +1,4 @@
+require "dynamic_form"
 require "warden"
 
 module Subscribem
